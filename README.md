@@ -1,4 +1,11 @@
-## Hi, I'm IH 👋
+<div align='center'>
+  <a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=HI!%20I'm%20IH!"></a>
+
+  ## > Profile <
+
+  <img src="https://github.com/user-attachments/assets/f2d69bdf-e33c-4a3b-b30c-62b6831270e8" width="50%">
+  
+</div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABfry)](https://github.com/ABfry/github-readme-stats)
 
