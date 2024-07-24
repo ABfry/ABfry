@@ -10,4 +10,4 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats-clone-abfry.vercel.app/api?username=ABfry&theme=onedark&show_icons=true" />
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,nextjs,jquery,html,css,sass,tailwind,php,py,fastapi,mysql,java,docker,cs,unity,aws,ps,ai,pr,ae,swift)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,nextjs,tailwind,php,py,fastapi,mysql,docker,cs,unity,aws,ps,ai,pr,ae)](https://skillicons.dev)
