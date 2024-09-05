@@ -13,7 +13,7 @@
 
   ## > ABOUT <
 
-  [![My Skills](https://skillicons.dev/icons?i=react,nodejs,nextjs,tailwind,php,fastapi,mysql,docker,unity,aws,ps,ai)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,nodejs,nextjs,tailwind,fastapi,unity,aws,ps,ai)](https://skillicons.dev)
 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats-clone-abfry.vercel.app/api/top-langs/?username=ABfry&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats-clone-abfry.vercel.app/api?username=ABfry&theme=onedark&show_icons=true" />
